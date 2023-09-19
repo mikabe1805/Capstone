@@ -1,7 +1,7 @@
 <?php
 	$h1_size = "42px";
 	$h1_color = "blue";
-	$stylesheet_url = "style.css";
+	$stylesheet_url = "<css>style.css";
 ?>
 <!doctype html>
 <html>
