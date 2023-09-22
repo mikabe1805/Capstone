@@ -22,26 +22,26 @@
       <li class="nav-item">
         <a class="nav-link" href="#">Favorites</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Profile</a>
-      </li>
-      <li class="nav-item dropdown">
+      <!-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Pages
         </a>
-        <!-- <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="#">Search</a>
           <a class="dropdown-item" href="#">Favorites</a>
           <a class="dropdown-item" href="#">Profile</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="#">Something else here</a>
-        </div> -->
-      </li>
+        </div>
+      </li> -->
       <li class="nav-item">
         <a class="nav-link disabled" href="#">Relieve Stress</a>
       </li>
       <li class="nav-item">
         <a class="nav-link disabled" href="#">Ask AI</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Profile</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Log Out</a>
